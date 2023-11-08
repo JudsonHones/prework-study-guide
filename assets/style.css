@@ -14,13 +14,10 @@ h1,
 h2 {
     text-align: center;
 }
-h2 {
-    font-size: xx-large;
-}
 img {
     display: block;
-    height: 75px;
-    width: 75px;
+    height: 45px;
+    width: 45px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -44,7 +41,7 @@ li {
 font-size: medium;
 }
 .secret {
-    padding-left: 385px;
+    padding-left: 280px;
     font-family: cursive;
     color: #FFFFFF;
 }
